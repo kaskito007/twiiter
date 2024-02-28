@@ -1,4 +1,4 @@
-# twiiter Clone
+# twitter Clone
 This is a simple Twitter clone project developed as part of learning web development concepts.
 
 #Features
